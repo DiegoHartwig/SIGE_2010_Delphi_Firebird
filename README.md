@@ -1,2 +1,6 @@
-# SIGE_2010_Delphi_Firebird
-Sistema Desenvolvido em 2010 utilizando as tecnologias: Object Pascal (Delphi) e Banco de Dados Firebird
+# SIGE - Solução Informatizada de Gerenciamento Escolar
+## Sistema Desktop - Desenvolvido em 2010
+## Tecnologias: 
+* Linguagem: Object Pascal 
+* Delphi
+* Firebird
